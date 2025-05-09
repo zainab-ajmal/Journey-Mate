@@ -1,1 +1,2 @@
 # Journey-Mate
+Journey Mate is a user-friendly platform connecting passengers with drivers for convenient and affordable rides. Passengers can book cars or bikes, choose between standard or premium options, and enjoy features like pre-booking, dynamic pricing, and driver ratings. Drivers can set their fares and find nearby passengers, while premium users get exclusive discounts. Whether you need a quick ride, a luxury car, or a budget-friendly option, Journey Mate ensures a smooth and secure journey for all.
